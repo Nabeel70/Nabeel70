@@ -6,7 +6,7 @@
 ## I'm a Fullstack Developer, Data Scientist, and A full-time Learner!!
 
 - 👯 I’m looking to collaborate with projects.
-- - 🌱 I’m currently learning PHP and Python.
+- 🌱 I’m currently learning PHP and Python.
 - 🥅 2024 Goals: Complete my ongoing projects and contribute more in Open Source Projects
 - ⚡ My Hobby: I like to read books and play cricket.
 
